@@ -1,0 +1,20 @@
+body{
+    background-color: brown;
+    color: aliceblue;
+}
+
+div>div{
+    background-color: bisque;
+    color: brown;
+    height: 100%;
+    width: 100%;
+}
+
+ul li{
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    /* border: 3px solid black; */
+    height: 100%;
+    width: 100%;
+}
